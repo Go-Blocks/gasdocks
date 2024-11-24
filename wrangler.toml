@@ -1,0 +1,6 @@
+name = "gas"
+type = "javascript"
+main = "./worker.js"
+
+[site]
+bucket = "./"
