@@ -1,5 +1,5 @@
 name = "gas"
-type = "javascript"
+type = "module"
 main = "./worker.js"
 
 [site]
