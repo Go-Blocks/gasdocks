@@ -3,6 +3,7 @@ type = "module"
 main = "./worker.js"
 compatibility_date = "2024-11-24"
 find_additional_modules = true
+no_bundle = true
 
 [site]
 bucket = "./"
