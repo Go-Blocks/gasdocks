@@ -1,6 +1,7 @@
 name = "gas"
 type = "module"
 main = "./worker.js"
+compatibility_date = "2024-11-24"
 
 [site]
 bucket = "./"
